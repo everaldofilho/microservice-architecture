@@ -19,13 +19,13 @@ Para cada projeto se espera 2 niveis de abstração de arquitetura sendo elas:
 - **VISÃO MACRO:** Visão como todo
 - **VISÃO MICRO:** Visão no individual de cada microsserviço
 
-Para o nivel `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
+Para `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
 
 - **QUÁLIDADE:** Entrega a melhor solução no quesito Resiliência.
 - **CUSTO:** Entrega a melhor solução no quesito Resiliênce e Custo.
 - **PRÁTICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil Mantimento.
 
-Para o nivel `VISÃO MICRO`: deve ser discutido as definições pensando em:
+Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 
 - **RESILIÊNCIA:** Quão resiliente é essa solução
 - **DESEMPENHO:** Quão rapido é o processamento/resposta
@@ -68,7 +68,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 
 ## 👷 Contribuidores
 
-<table>
+<table borde=0>
     <tr>
         <td style="text-align: center">
             <a href="https://github.com/everaldofilho" target="blank">
