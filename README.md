@@ -52,7 +52,6 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
     <tr>
         <td>📖 Livros </td>
         <td>🔗 Links </td>
-        <td>🧰 Padrões </td>
     </tr>
     <tr>
         <td>
@@ -60,13 +59,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
             - Domain Driver Design <br>
         </td>
         <td>
-            - Clear Architecture <br>
-            - Domain Driver Design <br>
-        </td>
-        <td>   
-            - Outbox Pattern <br>
-            - Strangler Fig Pattern <br>
-            - Saga Pattern <br>
+            - <a href="./patterns">Patterns</a>
         </td>
     </tr>
 </table>
