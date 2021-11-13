@@ -2,14 +2,14 @@
 <h1><a href="./../"> 🔙 </a> Nível 1 (Qualidade)</h1>
 
 <a href="">
-<img src="./capa.png" />
+    <img src="./capa.png" />
 </a>
+
 ## Resumo
 
-* QTDe de Contextos: 12
+Resumo da arquitetura utilizada, e o porque ela seria considerada de nivel 1.
+
 * QTDe de Serviços: 21
-* QTDe de Bancos de dados: 0
-* QTDe de Transações: 0
 
 ## Contextos Envolvidos
 

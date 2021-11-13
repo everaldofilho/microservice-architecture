@@ -84,6 +84,3 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
         </td>
     </tr>
 </table>
-
-
-    Material para fins de estudo
