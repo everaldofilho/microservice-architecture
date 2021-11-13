@@ -27,9 +27,10 @@ Para o nivel `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
 
 Para o nivel `VISÃO MICRO`: deve ser discutido as definições pensando em:
 
-- **RESILIÊNCIA:**
-- **DESEMPENHO:**
-- **PRÁTICIDADE:**
+- **RESILIÊNCIA:** Quão resiliente é essa solução
+- **DESEMPENHO:** Quão rapido é o processamento/resposta
+- **PRÁTICIDADE:** Quão prático é adicionar/remover funcionalidades
+- **MÃO DE OBRA:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
 
 
 ## 💻 Cases
@@ -37,11 +38,10 @@ Para o nivel `VISÃO MICRO`: deve ser discutido as definições pensando em:
 Uma pré lista de cases diferentes a serem estudados
 
 - [x] [Template](./projects/template)
-- [ ] IFood
-- [ ] Uber
-- [ ] Udemy
-- [ ] Twitter
-- [ ] TikTok
+- [ ] [IFood](./projects/template)
+- [ ] [Uber](./projects/template)
+- [ ] [Udemy](./projects/template)
+- [ ] [Twitter](./projects/template)
 
 
 ##  Referências
@@ -60,6 +60,26 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 - [Clear Architecture]()
 - [Domain Driver Design]()
 
+### Padroes
 
-# 👷 Contribuidores
+- Outbox Pattern
+- Strangler Fig Pattern
+- Saga Pattern
 
+## 👷 Contribuidores
+
+<table>
+    <tr>
+        <td style="text-align: center">
+            <a href="https://github.com/everaldofilho" target="blank">
+                <img src="https://avatars.githubusercontent.com/u/30817430?v=4" width=100px><br>
+                @everaldofilho
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+## 🔑 LICENSE
+
+[MIT](LICENSE)
