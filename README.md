@@ -32,16 +32,12 @@ Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 - **MÃO DE OBRA:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
 
 
-## 💻 Cases
+## 💻 Projects
 
 Uma pré lista de cases diferentes a serem estudados
 
 - [x] [Template](./projects/template)
-- [ ] [IFood](./projects/template)
-- [ ] [Uber](./projects/template)
-- [ ] [Udemy](./projects/template)
-- [ ] [Twitter](./projects/template)
-
+- [ ] [Sistema de Supermercado](./projects/sistem-de-supermercado)
 
 ##  Referências
 
