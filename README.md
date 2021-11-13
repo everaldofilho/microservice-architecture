@@ -48,23 +48,29 @@ Uma pré lista de cases diferentes a serem estudados
 
 Links e livros uteis para captar mais conhecimento sobre arquitetura.
 
+<table>
+    <tr>
+        <td>📖 Livros </td>
+        <td>🔗 Links </td>
+        <td>🧰 Padrões </td>
+    </tr>
+    <tr>
+        <td>
+            - Clear Architecture <br>
+            - Domain Driver Design <br>
+        </td>
+        <td>
+            - Clear Architecture <br>
+            - Domain Driver Design <br>
+        </td>
+        <td>   
+            - Outbox Pattern <br>
+            - Strangler Fig Pattern <br>
+            - Saga Pattern <br>
+        </td>
+    </tr>
+</table>
 
-### 📖 Livros
-
-- [Clear Architecture]()
-- [Domain Driver Design]()
-
-
-### 🔗 Links
-
-- [Clear Architecture]()
-- [Domain Driver Design]()
-
-### 🧰 Padroes
-
-- Outbox Pattern
-- Strangler Fig Pattern
-- Saga Pattern
 
 ## 👷 Contribuidores
 
@@ -80,6 +86,4 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 </table>
 
 
-## 🔑 LICENSE
-
-[MIT](LICENSE)
+    Material para fins de estudo
