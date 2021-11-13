@@ -14,18 +14,18 @@ Descrição do template fica aqui
 <table>
     <tr>
         <td>
-            <a href="./macro/nivel1/">
-                <img src="./macro/nivel1/capa.png">
+            <a href="./nivel1/">
+                <img src="./nivel1/capa.png">
             </a>
         </td>
          <td>
-            <a href="./macro/nivel2/">
-                <img src="./macro/nivel2/capa.png">
+            <a href="./nivel2/">
+                <img src="./nivel2/capa.png">
             </a>
         </td>
          <td>
-            <a href="./macro/nivel2/">
-                <img src="./macro/nivel2/capa.png">
+            <a href="./nivel2/">
+                <img src="./nivel2/capa.png">
             </a>
         </td>
     </tr>
