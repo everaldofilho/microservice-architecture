@@ -1,4 +1,4 @@
-<h1><a href="./../"> 🔙 </a> Microservice Architecture - Patterns </h1>
+<h1><a href="/"> 🔙 </a> Microservice Architecture - Patterns </h1>
 
 Lista de Patterns:
 
