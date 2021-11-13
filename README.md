@@ -60,6 +60,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
         </td>
         <td>
             - <a href="./patterns">Patterns</a>
+            - <a href="./projects">Projects</a>
         </td>
     </tr>
 </table>
