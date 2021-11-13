@@ -1,5 +1,6 @@
 # Microservice Architecture
 
+A ideia desse repositório é praticar arquitetura com grandes cases, a ideia NÃO É FAZER IGUAL, e sim tentar encontrar uma solução de arquitetura para cada case.
 
 ## 🏁 Tópicos
 
@@ -11,8 +12,6 @@
 * [Contribuidores](#contribuidores)
 
 ## 📑 Resumo
-
-A ideia desse repositório é praticar arquitetura com grandes cases, a ideia NÃO É FAZER IGUAL, e sim tentar encontrar uma solução de arquitetura para cada case.
 
 Para cada projeto se espera 2 niveis de abstração de arquitetura sendo elas:
 
