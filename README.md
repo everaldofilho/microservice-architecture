@@ -59,7 +59,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
             - Domain Driver Design <br>
         </td>
         <td>
-            - <a href="./patterns">Patterns</a>
+            - <a href="./patterns">Patterns</a> <br>
             - <a href="./projects">Projects</a>
         </td>
     </tr>
