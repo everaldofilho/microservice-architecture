@@ -32,7 +32,7 @@ Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 - **MÃO DE OBRA:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
 
 
-## 💻 Projects
+## 💻 Projetos
 
 Uma pré lista de cases diferentes a serem estudados
 
