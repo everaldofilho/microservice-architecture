@@ -60,7 +60,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 - [Clear Architecture]()
 - [Domain Driver Design]()
 
-### Padroes
+### 🧰 Padroes
 
 - Outbox Pattern
 - Strangler Fig Pattern
