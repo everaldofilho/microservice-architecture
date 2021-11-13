@@ -11,7 +11,7 @@ Resumo da arquitetura utilizada, e o porque ela seria considerada de nivel 1.
 
 * QTDe de Serviços: 21
 
-## Contextos Envolvidos
+## Contextos envolvidos
 
 | Contextos                  | Resumo                                            |
 | -------------------------- | ------------------------------------------------- |
@@ -22,7 +22,7 @@ Resumo da arquitetura utilizada, e o porque ela seria considerada de nivel 1.
 | Financeiro                 | ---                                               |
 
 
-## Serviços Envolvidos
+## Serviços envolvidos
 
 | Serviços                   | Responsabilidade                                  |
 | -------------------------- | ------------------------------------------------- |
@@ -47,3 +47,7 @@ Resumo da arquitetura utilizada, e o porque ela seria considerada de nivel 1.
 
 ## Patterns utilizados
 
+
+| Patterns                   | Aonde foi usado                                   |
+| -------------------------- | ------------------------------------------------- |
+| Patterns 1                 | ---                                               |
