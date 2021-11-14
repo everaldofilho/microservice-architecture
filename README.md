@@ -16,15 +16,15 @@ Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 - **VISÃO MACRO:** A visão macro é o que possibilita a análise de todas as variáveis. Logo, não pode ser ignorada durante a idealização de projetos, estratégias, processos e demais atividades do empreendimento.
 - **VISÃO MICRO:** A visão micro é algo focado em uma parte da estrutura podendo ser um contexto ou um serviço e suas funcionalidades.
 
-Para `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
+Para `VISÃO MACRO`, deve ser pensado em 3 modelos visando:
 
-- **QUÁLIDADE:** Entrega a melhor solução no quesito Resiliência.
-- **CUSTO:** Entrega a melhor solução no quesito Resiliênce e Custo.
+- **QUÁLIDADE:** Entrega a melhor solução no quesito Resiliência, Velocidade e Escalabilidade.
+- **CRIATIVIDADE:** Entrega a melhor solução no quesito Criatividade com uso de ferramentas deferentes do que é usado com  frequência.
 - **PRÁTICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil mantimento.
 
 Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 
-- **RESILIÊNCIA:** Quão resiliente é essa solução
+- **RESILIÊNCIA:** Quão resiliente é essa solução, quantidade de dependências
 - **DESEMPENHO:** Quão rapido é o processamento/resposta
 - **PRÁTICIDADE:** Quão prático é adicionar/remover funcionalidades
 - **MÃO DE OBRA:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
