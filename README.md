@@ -4,10 +4,10 @@ Criei esse repo no intuito de aprender compartilhando com outros a minha visão 
 
 ## 🏁 Sumário
 
-* [Organização](#organização)
-* [Projetos](#projetos)
-* [Referências](#referências)
-* [Contribuidores](#contribuidores)
+* [Organização](#-organização)
+* [Projetos](#-projetos)
+* [Referências](#-referências)
+* [Contribuidores](#-contribuidores)
 
 ## 📑 Organização
 
