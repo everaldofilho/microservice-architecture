@@ -7,6 +7,7 @@ Criei esse repo no intuito de aprender compartilhando com outros a minha visão 
 * [Organização](#-organização)
 * [Projetos](#-projetos)
 * [Referências](#-referências)
+* [Tools](#-tools)
 * [Contribuidores](#-contribuidores)
 
 ## 📑 Organização
@@ -62,6 +63,11 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
     </tr>
 </table>
 
+## 🪓 Tools
+
+- https://app.diagrams.net/
+- https://www.websequencediagrams.com/
+- https://miro.com/
 
 ## 👷 Contribuidores
 
