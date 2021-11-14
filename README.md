@@ -11,9 +11,9 @@ Criei esse repo no intuito de aprender compartilhando com outros a minha visão 
 
 ## 📑 Organização
 
-<p style="text-align:center;">
+<center>
     <img src="./imgs/organizacao.png">
-</p>
+</center>
 
 Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 
