@@ -11,6 +11,10 @@ Criei esse repo no intuito de aprender compartilhando com outros a minha visão 
 
 ## 📑 Organização
 
+<p style="text-align:center;">
+    <img src="./imgs/organizacao.png">
+</p>
+
 Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 
 - **VISÃO MACRO:** A visão macro é o que possibilita a análise de todas as variáveis. Logo, não pode ser ignorada durante a idealização de projetos, estratégias, processos e demais atividades do empreendimento.
@@ -18,16 +22,16 @@ Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 
 Para `VISÃO MACRO`, deve ser pensado em 3 modelos visando:
 
-- **QUÁLIDADE:** Entrega a melhor solução no quesito Resiliência, Velocidade e Escalabilidade.
+- **QUALIDADE:** Entrega a melhor solução no quesito Resiliência, Velocidade e Escalabilidade.
 - **CRIATIVIDADE:** Entrega a melhor solução no quesito Criatividade com uso de ferramentas deferentes do que é usado com  frequência.
-- **PRÁTICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil mantimento.
+- **PRATICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil mantimento.
 
 Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 
 - **RESILIÊNCIA:** Quão resiliente é essa solução, quantidade de dependências
 - **DESEMPENHO:** Quão rapido é o processamento/resposta
-- **PRÁTICIDADE:** Quão prático é adicionar/remover funcionalidades
-- **MÃO DE OBRA:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
+- **PRATICIDADE:** Quão prático é adicionar/remover funcionalidades
+- **PESSOAS:** Quão fácil é encontrar ou desenvolver pessoas para trabalharem com isso.
 
 
 ## 💻 Projetos
