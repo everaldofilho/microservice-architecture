@@ -1,22 +1,22 @@
 # Microservice Architecture
 
-A ideia desse repositório é praticar arquitetura com grandes cases, a ideia NÃO É FAZER IGUAL, e sim tentar encontrar uma solução de arquitetura para cada case.
+Criei esse repo no intuito de aprender compartilhando com outros a minha visão de solução para alguns problemas referente a arquitetura de software.
 
 ## 🏁 Tópicos
 
-* [Resumo](#resumo)
+* [Oganização](#Oganização)
 * [Cases](#Cases)
 * [Referências](#Referências)
     * [Livros](#Livros)
     * [Links](#Links)
 * [Contribuidores](#contribuidores)
 
-## 📑 Resumo
+## 📑 Oganização
 
-Para cada projeto se espera 2 niveis de abstração de arquitetura sendo elas:
+Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 
-- **VISÃO MACRO:** Visão como todo
-- **VISÃO MICRO:** Visão no individual de cada microsserviço
+- **VISÃO MACRO:** A visão macro é o que possibilita a análise de todas as variáveis. Logo, não pode ser ignorada durante a idealização de projetos, estratégias, processos e demais atividades do empreendimento.
+- **VISÃO MICRO:** A visão micro é algo focado em uma parte da estrutura podendo ser um contexto ou um serviço e suas funcionalidades.
 
 Para `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
 
