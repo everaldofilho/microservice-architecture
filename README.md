@@ -2,7 +2,7 @@
 
 Criei esse repo no intuito de aprender compartilhando com outros a minha visão de solução para alguns problemas referente a arquitetura de software.
 
-## 🏁 Tópicos
+## 🏁 Sumário
 
 * [Organização](#organização)
 * [Projetos](#projetos)
@@ -37,7 +37,7 @@ Uma pré lista de cases diferentes a serem estudados
 - [x] [Template](./projects/template)
 - [ ] [Sistema de Supermercado](./projects/sistem-de-supermercado)
 
-##  Referências
+## 🕵️ Referências
 
 Links e livros uteis para captar mais conhecimento sobre arquitetura.
 
