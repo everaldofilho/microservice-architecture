@@ -4,14 +4,12 @@ Criei esse repo no intuito de aprender compartilhando com outros a minha visão 
 
 ## 🏁 Tópicos
 
-* [Oganização](#Oganização)
-* [Cases](#Cases)
-* [Referências](#Referências)
-    * [Livros](#Livros)
-    * [Links](#Links)
+* [Organização](#organização)
+* [Projetos](#projetos)
+* [Referências](#referências)
 * [Contribuidores](#contribuidores)
 
-## 📑 Oganização
+## 📑 Organização
 
 Para cada projeto se espera 1 ou 2 niveis de desenho de arquitetura sendo elas:
 
@@ -22,7 +20,7 @@ Para `VISÃO MACRO`, deve ser apresentado 3 modelos pensando em:
 
 - **QUÁLIDADE:** Entrega a melhor solução no quesito Resiliência.
 - **CUSTO:** Entrega a melhor solução no quesito Resiliênce e Custo.
-- **PRÁTICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil Mantimento.
+- **PRÁTICIDADE:** Entrega a melhor solução no quesito Resiliência, Custo e Facil mantimento.
 
 Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 
