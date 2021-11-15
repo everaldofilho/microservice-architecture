@@ -2,6 +2,6 @@
 
 Lista de Patterns:
 
-- [Outbox Pattern](./outbox-pattern)
-- [Strangler Fig Pattern](./stragler-fig-pattern)
-- [Saga Pattern](./saga-pattern)
+- [Outbox](./outbox)
+- [Strangler Fig](./stragler)
+- [Saga](./saga)
