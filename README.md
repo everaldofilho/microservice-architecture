@@ -57,6 +57,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
             - Domain Driver Design <br>
         </td>
         <td>
+            - <a href="https://microservices.io/patterns/microservices.html">Microservices.io</a>
             - <a href="./patterns">Patterns</a> <br>
             - <a href="./projects">Projects</a>
         </td>
@@ -65,9 +66,12 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 
 ## 🪓 Tools
 
-- https://app.diagrams.net/
-- https://www.websequencediagrams.com/
-- https://miro.com/
+- [Draw.io / Diagrams](https://app.diagrams.net/)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Web Sequence Diagrams](https://www.websequencediagrams.com/)
+- [Miro](https://miro.com/)
+- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/edit)
+- [Excalidraw](https://excalidraw.com/)
 
 ## 👷 Contribuidores
 
