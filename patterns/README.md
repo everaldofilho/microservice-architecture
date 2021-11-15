@@ -3,5 +3,5 @@
 Lista de Patterns:
 
 - [Outbox](./outbox)
-- [Strangler Fig](./stragler)
+- [Strangler Fig](./strangler)
 - [Saga](./saga)
