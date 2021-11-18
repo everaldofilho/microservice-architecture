@@ -49,7 +49,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 <table>
     <tr>
         <td>📖 Livros </td>
-        <td>🦽 Princípios<td>
+        <td>🦽 Princípios</td>
         <td>🔗 Links </td>
     </tr>
     <tr>
