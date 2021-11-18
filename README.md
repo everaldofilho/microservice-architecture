@@ -49,6 +49,7 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 <table>
     <tr>
         <td>📖 Livros </td>
+        <td>🦽 Princípios<td>
         <td>🔗 Links </td>
     </tr>
     <tr>
@@ -57,9 +58,15 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
             - Domain Driver Design <br>
         </td>
         <td>
-            - <a href="https://microservices.io/patterns/microservices.html">Microservices.io</a>
+            - YAGNI<br>
+            - DRY<br>
+            - KISS<br>
+        </td>
+        <td>
+            - <a href="https://microservices.io/patterns/microservices.html">Microservices.io</a><br>
+            - <a href="https://deviq.com/">DevIQ</a><br>
             - <a href="./patterns">Patterns</a> <br>
-            - <a href="./projects">Projects</a>
+            - <a href="./projects">Projects</a><br>
         </td>
     </tr>
 </table>
