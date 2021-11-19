@@ -40,7 +40,7 @@ Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 Uma pré lista de cases diferentes a serem estudados
 
 - [x] [Template](./projects/template)
-- [ ] [Sistema de Supermercado](./projects/sistem-de-supermercado)
+- [ ] [Reality Show](./projects/reality-show)
 
 ## 🕵️ Referências
 
@@ -81,6 +81,8 @@ Links e livros uteis para captar mais conhecimento sobre arquitetura.
 - [Excalidraw](https://excalidraw.com/)
 
 ## 👷 Contribuidores
+
+A contrinuição é aberta a todos, o intuito desse repositório é aprender e compartilhar, e caso queira contribuir não precisa de muito, viu algo interessante com relação a microsserviço, arquitetura, ferramentas só subir a PR.
 
 <table borde=0>
     <tr>
