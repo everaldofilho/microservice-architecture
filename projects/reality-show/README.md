@@ -2,7 +2,7 @@
 
 ## Resumo
 
-Estamos preste a lançar um novo realite show chamado "DEU TRETA", precisamos que os participantes façam seus cadastro e se increvam no reality, o reality acontecerá 2 vezes ao ano e toda terça e quinta feira será aberta para votação com 3 ou 5 participantes, a votação é para tirar um dos participantes, não se apegue aos dias da semana podemos fazer uma eliminação surpresa em qualquer dia.
+Estamos preste a lançar um novo reality show chamado "DEU TRETA", precisamos que os participantes façam seus cadastro e se inscrevam no reality, o reality acontecerá 2 vezes ao ano e toda terça e quinta feira será aberta para votação com 3 ou 5 participantes, a votação é para tirar um dos participantes, não se apegue aos dias da semana podemos fazer uma eliminação surpresa em qualquer dia.
 
 
 ## Pontos de importantes a serem tratados
