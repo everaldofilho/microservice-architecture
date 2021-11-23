@@ -8,7 +8,7 @@ Estamos preste a lançar um novo reality show chamado "DEU TRETA", precisamos qu
 ## Pontos de importantes a serem tratados
 
 - Durante a votação queremos 100% de disponibilidade
-- A votação deve conter proteção contra Bot(Evite fraldes)
+- A votação deve conter proteção contra Bot(Evite fraudes)
 
 ## Arquitetura Macro
 
