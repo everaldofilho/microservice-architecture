@@ -2,8 +2,6 @@
 
 <h1><a href="./../"> 🔙 </a> Follow well truck driver (Siga bem caminhoneiro)</h1>
 
-![](https://media.giphy.com/media/2xF8aOrOWsbrrKCitB/giphy.gif)
-
 ## Objetivo do projeto
 
 O projeto tem como objetivo ajudar estabelecimentos que estão a procura de um caminhão para levar suas entregas e ajudar um caminhoneiro que esta a procura de bicos para ganhar um dinheiro extra.
