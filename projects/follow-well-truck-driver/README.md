@@ -44,6 +44,7 @@ Eu como #Caminhoneiro:
 Regras em comum:
 - Deve ser validado solicitações duplicadas
 - Deve ser validado propostas duplicadas, cada caminhoneiro pode fazer só uma proposta por solicitação
+- Ambos perfis podem receber avaliação no final da entrega podendo ser de 1 a 5
 - Ambos cadastros devem passar por verificação de fraude tanto o #estabelecimento como #caminhonheiro
 
 
