@@ -41,6 +41,7 @@ Uma pré lista de cases diferentes a serem estudados
 
 - [x] [Template](./projects/template)
 - [ ] [Reality Show](./projects/reality-show)
+- [ ] [Siga bem caminhoneiro](./projects/follow-well-truck-driver)
 
 ## 🕵️ Referências
 
