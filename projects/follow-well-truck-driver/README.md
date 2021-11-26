@@ -50,7 +50,7 @@ Vamos fornecer um App que ele consiga receber notificações sobre possíveis pr
 - [ ] Ambos perfis podem receber avaliação no final da entrega podendo ser de 1 a 5
 - [ ] Ambos cadastros devem passar por verificação de fraude tanto o #estabelecimento como #caminhoneiro
 
-### POC (`Proof of concept`) / Prova de conceito
+### POC (`Proof Of Concept`) / Prova de conceito
 
 -- `Pendente` --
 
