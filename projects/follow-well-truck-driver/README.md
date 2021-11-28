@@ -30,7 +30,7 @@ Vamos fornecer um App que ele consiga receber notificações sobre possíveis pr
 - [ ] Quero poder aceitar e trocar mais informações com o dono da proposta #Caminhoneiro
 - [ ] Quero poder caso o dono da proposta mude de idéia voltar a solicitação de orçamento e perguntar quem ainda tem interesse em fazer essa entrega.
 - [ ] Quero poder deixar o valor pago para a plataforma, e a mesma disponibilizar o valor para o entregador após confirmação de entrega.
-
+- [ ] Quero poder compartilhar um codigo ou link de rastreamento de entrega
 
 **Eu como #Caminhoneiro:**
 
@@ -41,6 +41,10 @@ Vamos fornecer um App que ele consiga receber notificações sobre possíveis pr
 - [ ] Quero poder enviar o valor da proposta ao estabelecimento e sugerir alterações de data e hora caso necessário
 - [ ] Quero poder após enviar a proposta receber notificação caso o #estabelecimento aceite ou recuse a proposta
 
+**Eu como Cliente do estabelecimento:**
+
+- [ ] Quero poder acompanhar em realtime a situação da entrega
+- [ ] Assim que chegar quero conferir e confirma entrega
 
 
 **Regras em comum:**
