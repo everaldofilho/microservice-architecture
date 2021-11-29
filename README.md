@@ -40,6 +40,7 @@ Para `VISÃO MICRO`: deve ser discutido as definições pensando em:
 Uma pré lista de cases diferentes a serem estudados
 
 - [x] [Template](./projects/template)
+- [ ] [Siga bem caminhoneiro](./projects/follow-well-truck-driver)
 
 ## 🕵️ Referências
 
